@@ -1,6 +1,6 @@
-### 🙋‍♂️Hi! I am Thurein Myo Min.
+<!-- ### 🙋‍♂️Hi! I am Thurein Myo Min. -->
 
-# Hi there, I'm Thomas!
+# 🙋‍♂️ Hi there, I'm Thurein Myo Min!
 
 I'm a passionate developer and educator, specializing in web development using Vite, Tailwind CSS, and ReactJS.
 
