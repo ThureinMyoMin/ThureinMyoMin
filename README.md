@@ -21,11 +21,11 @@ I'm constantly expanding my knowledge in the fields of Web Development. -->
 - Email: thureinmyoomin@gmail.com
 - Facebook: https://www.facebook.com/profile.php?id=61550257556199
 
-## 💬 Want to Chat?
+<!-- ## 💬 Want to Chat?
 
 I'm always open to discussing web development, and innovative ideas. Feel free to reach out!
 
-<!--
+
 If you want to support the idea of open-source and collaboration, you can add a call-to-action like:
 🤝 Let's collaborate! If you have an interesting project or opportunity, [get in touch](mailto:your@email.com).
 -->
