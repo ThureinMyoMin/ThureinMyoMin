@@ -1,6 +1,6 @@
 <!-- ### 🙋‍♂️Hi! I am Thurein Myo Min. -->
 
-# 🙋‍♂️ Hi there, I'm Thurein Myo Min!
+# Hi there, I'm Thurein Myo Min!
 
 I'm a passionate developer and educator, specializing in web development using Vite, Tailwind CSS, and ReactJS.
 
@@ -8,10 +8,10 @@ I'm a passionate developer and educator, specializing in web development using V
 
 - [Project Name 1](link-to-repo): A brief description of the project and the technologies used.
 - [Project Name 2](link-to-repo): Another project highlighting your skills and achievements. -->
-
+<!-- 
 ## 🌱 Learning Journey
 
-I'm constantly expanding my knowledge in the fields of Web Development.
+I'm constantly expanding my knowledge in the fields of Web Development. -->
 
 ## 📫 Let's Connect
 
