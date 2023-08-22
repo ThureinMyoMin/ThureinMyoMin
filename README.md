@@ -1,7 +1,7 @@
 <!-- ### 🙋‍♂️Hi! I am Thurein Myo Min. -->
 
 # Hi there, I'm Thurein Myo Min!
-
+### I am still learning web developing. 💻
 <!-- I'm a passionate developer, specializing in web development using Vite, Tailwind CSS. -->
 
 <!-- ## 🔭 My Web Development Projects
@@ -13,13 +13,13 @@
 
 I'm constantly expanding my knowledge in the fields of Web Development. -->
 
-## 📫 Let's Connect
+## Let's Connect
 
 <!-- - LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername)
 - Portfolio: [Your Portfolio Website](https://www.yourportfolio.com) -->
 
-- Email: thureinmyoomin@gmail.com
-- Facebook: https://www.facebook.com/profile.php?id=61550257556199
+- Email: <br>thureinmyoomin@gmail.com
+- Facebook: <br>https://www.facebook.com/profile.php?id=61550257556199
 
 <!-- ## 💬 Want to Chat? 
 
