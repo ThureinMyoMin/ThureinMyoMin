@@ -2,7 +2,7 @@
 
 # Hi there, I'm Thurein Myo Min!
 
-I'm a passionate developer and educator, specializing in web development using Vite, Tailwind CSS.
+<!-- I'm a passionate developer, specializing in web development using Vite, Tailwind CSS. -->
 
 <!-- ## 🔭 My Web Development Projects
 
