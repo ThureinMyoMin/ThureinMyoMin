@@ -1,6 +1,6 @@
 
 
-# Hi there, I'm Thurein Myo Min!
+# Hi, I'm Thurein Myo Min!
 ### I am still learning web developing. 💻
 
 ## Let's Connect
